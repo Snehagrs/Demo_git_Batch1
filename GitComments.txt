@@ -1,0 +1,52 @@
+Git comments
+
+1. git status
+2. git in it
+3. go to repository - new repository - name = demo_batch1 - create
+ - (in folder - create text - write comments- save) -
+goto git bash-
+git status
+git init
+got to folder
+right click-show hidden -
+git status
+get add .
+git status
+-> goto github
+git remote add origin https://github
+again = git remote add origin https://github
+
+to create branch :
+adding to main branch 
+
+git commit -m "initial setup done"
+
+(Note : to change name goto folder
+git --version
+config --global user.name "Sneha"
+config --global user.name sneha)
+
+again push:
+git push origin.master
+gotot re[pository - check
+
+create new branch
+
+$git checkout -b Sneha
+
+update comments in text
+
+$git status
+$git add .
+$git sytatus
+$git commit -m "commands updated"
+$git pull originMaster
+$git checkout master : switched to master
+git pull origin Master
+git checkout Sneha
+
+
+
+
+
+
