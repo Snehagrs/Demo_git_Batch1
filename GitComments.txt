@@ -5,12 +5,28 @@ Git comments
 3. go to repository - new repository - name = demo_batch1 - create
  - (in folder - create text - write comments- save) -
 goto git bash-
-git status
-git init
+
+git status : to check status of repository
+
+git init : initializing git/ create folder
+
 got to folder
 right click-show hidden -
 git status
-get add .
+
+get add . : to add all file
+git add filename : add one file
+
+git remote add origin "url" :
+
+git pull origin "remote" : whatever the code in branch we need to pull them
+
+git checkout branch : to switch to the branch
+
+git checkout -b branch : to create a branch
+
+git push origin "remote" : to push the codes / codes that modified
+
 git status
 -> goto github
 git remote add origin https://github
@@ -19,7 +35,7 @@ again = git remote add origin https://github
 to create branch :
 adding to main branch 
 
-git commit -m "initial setup done"
+git commit -m "initial setup done" : (-m:message) 
 
 (Note : to change name goto folder
 git --version
@@ -27,8 +43,8 @@ config --global user.name "Sneha"
 config --global user.name sneha)
 
 again push:
-git push origin.master
-gotot re[pository - check
+git
+gotot repository - check
 
 create new branch
 
@@ -38,13 +54,14 @@ update comments in text
 
 $git status
 $git add .
-$git sytatus
+$git status
 $git commit -m "commands updated"
 $git pull originMaster
 $git checkout master : switched to master
 git pull origin Master
 git checkout Sneha
 
+comments added to soundarya
 
 
 
